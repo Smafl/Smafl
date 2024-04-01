@@ -1,7 +1,7 @@
 ### Hi there 👋 My name is Elena and I'm a junior software developer
 
 Currently I’m finishing 42 Heilbronn programming school<br>
-but before I worked as a doctor of sports medicine for 5.5 years<br>
+but before I worked as a doctor of sports medicine for 6 years<br>
 
 You can reach me:<br>
   - in LinkedIn https://www.linkedin.com/in/elena-kulichkova/<br>
