@@ -15,7 +15,10 @@ You can reach me:<br>
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,js,py,django" /><br>
-    <img src="https://skillicons.dev/icons?i=git,docker,vscode" />
+    <img src="https://skillicons.dev/icons?i=c,cpp"/><br>
+    <img src="https://skillicons.dev/icons?i=js,ts,angular"/><br>
+    <img src="https://skillicons.dev/icons?i=py,django"/><br>
+    <img src="https://skillicons.dev/icons?i=git,docker,vscode"/><br>
+    <img src="https://skillicons.dev/icons?i=apple,windows"/>
   </a>
 </p>
