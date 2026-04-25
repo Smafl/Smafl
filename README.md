@@ -8,7 +8,7 @@ You can reach me:<br>
   - via email lennykulichkova@gmail.com<br>
 
 ### Languages
-🇷🇺 🇬🇧 und ein bisshen 🇩🇪
+🇷🇺 🇬🇧 🇩🇪
 
 ### Skills
 
